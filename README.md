@@ -1,11 +1,4 @@
 # Mechanic project
-
-If you haven't already, move your working directory to this project to run Mechanic commands:
-
-```
-cd path/to/project
-```
-
 ## Running design functions
 
 To run and see your design functions in action right away, just call:
@@ -35,9 +28,3 @@ There's two ways of doing it. First, running a command that will ask you a coupl
 ```
 npm run new
 ```
-
-The other way is to do it manually. Add a new folder in your design functions directory, and add there a `index.js` file. There you should define all necessary exports of a design function. Also, you should add all dependencies that your new design function would use, including its engine. Note that all these steps is done by the previous command.
-
-## More Mechanic
-
-To learn about what can be done and how to do it through Mechanic, visit the [documentation site](https://mechanic.design/docs).
